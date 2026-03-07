@@ -1,4 +1,8 @@
-Privacy Policy
+---
+title: Seamless Track Privacy Policy
+---
+
+# Privacy Policy
 
 This Privacy Policy applies to the mobile application "無感記帳" (hereinafter referred to as the "Application") developed by Lazyrhythm (hereinafter referred to as the "Service Provider"). The Application is provided as a Freemium service and is intended for use "AS IS".
 

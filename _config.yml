@@ -1,0 +1,23 @@
+title: Lazyrhythm Apps
+description: Privacy policies for Lazyrhythm mobile applications
+theme: jekyll-theme-minimal
+
+# Site settings
+lang: en
+timezone: Asia/Taipei
+
+# GitHub Pages settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files from build
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
